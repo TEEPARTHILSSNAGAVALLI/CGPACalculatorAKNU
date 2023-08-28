@@ -1,0 +1,31 @@
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+.grp {
+    border: 1px solid #ddd;
+    background-color: burlywood;
+    text-align: center;
+    padding: 10px;
+    margin: 5px;
+}
+button {
+    width: 20%;
+    background-color: teal;
+    color: #fff;
+    
+}
+img {
+    margin-top: 20px;
+    margin-left: 400px;
+    width: 550px;
+    height: 500px;
+}
+footer {
+    background-color: lightskyblue;
+    color: maroon;
+    text-align: center;
+    padding: 10px;
+}
